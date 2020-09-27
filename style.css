@@ -1,0 +1,17 @@
+.body {
+	width: 100%;
+	height: calc(100% - 0%);
+	background-color: black;
+	position: absolute;
+}
+.box1 {
+	width: 20%; 
+	position: relative;
+	background-color: white;
+}
+.box2 {
+	position: absolute;
+}
+.box3 {
+	width: 100%; height: 45%;
+	position: absolute;
